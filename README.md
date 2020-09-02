@@ -6,7 +6,7 @@ V. Antun, B. Adcock and A. C. Hansen.
 
 This repository does only contains the source code. The data (3.7 GB) can be downloaded
 here
-[folk.uio.no/vegarant/123/storage3.zip](folk.uio.no/vegarant/123/storage3.zip).
+[https://www.mn.uio.no/math/english/people/aca/vegarant/data/storage3.zip](https://www.mn.uio.no/math/english/people/aca/vegarant/data/storage3.zip).
 Note that you will most likely have to change all paths so that they point to the 
 correct data, in order for the scripts to run smoothly. In most cases, this can be done in the configuration files.
 
